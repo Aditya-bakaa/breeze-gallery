@@ -48,7 +48,7 @@ Follow these steps to run the project locally:
    ```bash
    git clone [https://github.com/Aditya-bakaa/breeze-gallery.git](https://github.com/Aditya-bakaa/breeze-gallery.git)
    cd breeze-gallery
-```
+   ```
 
 
 2. **Install dependencies:**
