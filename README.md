@@ -47,6 +47,9 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
 ```bash
 git clone [https://github.com/Aditya-bakaa/breeze-gallery.git](https://github.com/Aditya-bakaa/breeze-gallery.git)
+```
+
+```bash
 cd breeze-gallery
 
 ```
@@ -81,7 +84,3 @@ npm run dev
 
 * **Separation of Concerns:** Instead of performing fetch operations inside React lifecycle triggers, all network layers are completely decoupled into an isolated service client module.
 * **Object-Fit Optimization:** Avoided image stretching and layout shifts across viewport transitions by establishing custom grid card containers bound to dynamic `object-fit: cover` properties.
-
-```
-
-```
